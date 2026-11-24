@@ -11,3 +11,9 @@ runoob-glm-asr-demo.py是进行音频转文字ASR的练习，识别的音频是v
 
 runoob-image-analyzer.py是一个图片分析器。
 分析的图片是runoob_test_image.jpg。分析的结果在runoob_analysis里面。使用的智谱的模型。
+
+新增了一个简单的Webhook接收+AI处理流程脚本runoob-webHook.py。
+这个脚本使用了Flask路由。
+两种测试方法，本地网页和curl语句如图：
+<img width="1874" height="909" alt="a78c029c2c705829313e73c775de34cd" src="https://github.com/user-attachments/assets/3409dd3b-0a9d-4038-bfd5-7b82f7dd8c1d" />
+curl语句忘记截图了。
